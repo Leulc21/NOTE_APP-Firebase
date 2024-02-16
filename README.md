@@ -28,3 +28,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+# test
+
+![note1](https://github.com/Leulc21/NOTE_APP-Firebase/assets/122618997/f7f5fb12-ffc4-4529-9038-59ed5136d28f)
