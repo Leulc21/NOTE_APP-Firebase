@@ -1,6 +1,6 @@
-# crudapp
+# Note_App Firebase
 
-## Note App
+## CRUD
 A simple Flutter application for managing your notes. This app allows you to create, edit, and delete notes effortlessly. Utilizing Cloud Firestore for data storage, it provides real-time synchronization across devices. The clean and intuitive user interface ensures a seamless note-taking experience.
 
 ### Features:-
