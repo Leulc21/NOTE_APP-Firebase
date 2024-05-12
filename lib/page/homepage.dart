@@ -44,21 +44,17 @@ class _HomepageState extends State<Homepage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-       backgroundColor:  Color(0xFFE2DED0),
+      backgroundColor:  Color(0xFFE2DED0),
       appBar: AppBar(
         centerTitle: true,
         title: const Text(
-          'አጀንዳ',
-          style: TextStyle(
-            fontFamily: 'Chiret',
-             fontSize: 20.0,
-            color: Colors.white,
-          ),
+          'NOTE APP',
+          
         ),
         backgroundColor: Color(0xFF4E4F50),
       ),
       floatingActionButton: FloatingActionButton(
-        onPressed: () => openNoteBox,
+        onPressed: () => openNoteBox(null),
         backgroundColor: Colors.black87,
         child: const Icon(
           Icons.add,
